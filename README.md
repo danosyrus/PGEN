@@ -8,4 +8,4 @@ Yet another GUI based password generator made with python.
 
 # Preview
 
-![Preview](https://raw.githubusercontent.com/danodx/PGen/main/pic.png|alt=img)
+![Preview](https://raw.githubusercontent.com/danodx/PGen/main/pic.png)
