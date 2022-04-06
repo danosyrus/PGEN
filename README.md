@@ -1,2 +1,2 @@
 # PGen
-Just a basic GUI based password generator! 
+Yet another GUI based password generator made with python.
