@@ -7,3 +7,5 @@ Yet another GUI based password generator made with python.
 3) Run: `python3 main.py`
 
 # Preview
+
+[[https://raw.githubusercontent.com/danodx/PGen/main/pic.png|alt=img]]
