@@ -1,5 +1,5 @@
 # PGen
-Yet another GUI based password generator made with python.
+GUI based password generator made with python.
 
 # Usage
 1) Clone This Repo: `git clone https://github.com/danodx/PGen.git`
