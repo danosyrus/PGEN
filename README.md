@@ -1,4 +1,4 @@
-# PGen
+# PGEN
 GUI based password generator made with python.
 
 # Usage
